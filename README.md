@@ -1,2 +1,2 @@
 #ShapeOpenGL
-creating shapes
+creating shapes using OpenGL
